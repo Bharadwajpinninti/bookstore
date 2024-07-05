@@ -1,27 +1,64 @@
 <img src="client/public/icons/open-book.png" alt="bookstore icon" width="300"> 
 
+# Online Bookstore
 
-Our online bookstore is a full-featured web application developed using MERN technologies, offering 
-a seamless and comprehensive platform for book enthusiasts. Users can sign up, log in, and search 
-for books or authors effortlessly. The website features a dynamic book cart allowing customers to 
-select their desired books and place orders directly through the site. With a robust review and rating 
-system, users can share their thoughts and rate books, enhancing the community-driven experience.
+Our online bookstore is a full-featured web application developed using MERN technologies, offering a seamless and comprehensive platform for book enthusiasts. Users can sign up, log in, and search for books or authors effortlessly. The website features a dynamic book cart allowing customers to select their desired books and place orders directly through the site. With a robust review and rating system, users can share their thoughts and rate books, enhancing the community-driven experience.
 
-The bookstore categorizes its extensive collection into various genres including "Fiction, Children, 
-Novels, Translations, Short Story, Educational, Biography, and Poetry" ensuring a wide array of 
-options for all readers. While it does not support online book reading, it excels in providing a user friendly interface and efficient navigation for purchasing books.
+## Features
 
-Technologies Used:- NodeJS, Express, React, Redux, MongoDB (mongoose), Styled-Components, 
-Material-UI, GSAP (animations), PayPal SDK, JWT (auth), Axios
+- **User Authentication**: Sign up and log in securely using JWT.
+- **Book Search**: Search for books or authors effortlessly.
+- **Book Cart**: Add books to the cart and place orders directly through the site.
+- **Reviews and Ratings**: Share thoughts and rate books to enhance the community-driven experience.
+- **Categorized Collection**: Extensive collection categorized into various genres:
+  - Fiction
+  - Children
+  - Novels
+  - Translations
+  - Short Story
+  - Educational
+  - Biography
+  - Poetry
 
-Development Credits:-
-• Frontend - @prabodya99 and @madhusankha90
-• Backend - Avishka Kothalawala and @madhusankha90
+*Note: Online book reading is not supported.*
 
-Setup
-To run this project, install both server and client dependencies using npm:-
+## Technologies Used
+
+- **Backend**: NodeJS, Express, MongoDB (mongoose)
+- **Frontend**: React, Redux, Styled-Components, Material-UI
+- **Animations**: GSAP
+- **Payment**: PayPal SDK
+- **Authentication**: JWT
+- **HTTP Client**: Axios
+
+## Development Credits
+
+- **Frontend Developers**: @prabodya99 and @madhusankha90
+- **Backend Developers**: Avishka Kothalawala and @madhusankha90
+
+## Setup
+
+To run this project, install both server and client dependencies using npm:
+
+```sh
+# Install server dependencies
 $ npm install
+
+# Navigate to client directory
 $ cd client
+
+# Install client dependencies
 $ npm install
-Using concurrently you can run both express server and CRA server at the same time:-
+```
+
+Using concurrently, you can run both the express server and CRA server at the same time:
+
+```sh
+# Run both servers concurrently
 $ npm run dev
+```
+Clone the repository:
+   ```sh
+   https://github.com/madhusankha90/bookstore.git
+---
+
