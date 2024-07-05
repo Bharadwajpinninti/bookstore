@@ -1,4 +1,4 @@
-![bookstore](client/public/icons/open-book.png)
+<img src="client/public/icons/open-book.png" alt="bookstore icon" width="300"> 
 
 
 Our online bookstore is a full-featured web application developed using MERN technologies, offering 
