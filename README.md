@@ -1,8 +1,9 @@
 <img src="client/public/icons/open-book.png" alt="bookstore icon" width="300"> 
 
-# Online Bookstore
+
 [![npm](https://img.shields.io/npm/v/npm)](https://www.npmjs.com/package/npm)
 [![React](https://img.shields.io/badge/React-v17.0.2-blue)](https://reactjs.org/)
+# Online Bookstore
 Our online bookstore is a full-featured web application developed using MERN technologies, offering a seamless and comprehensive platform for book enthusiasts. Users can sign up, log in, and search for books or authors effortlessly. The website features a dynamic book cart allowing customers to select their desired books and place orders directly through the site. With a robust review and rating system, users can share their thoughts and rate books, enhancing the community-driven experience.
 
 ## Features
