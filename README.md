@@ -33,8 +33,8 @@ Our online bookstore is a full-featured web application developed using MERN tec
 
 ## Development Credits
 
-- **Frontend Developers**: @prabodya99 and @madhusankha90
-- **Backend Developers**: Avishka Kothalawala and @madhusankha90
+- **Frontend Developers**: [Prabodya Rajapaksha](https://github.com/prabodya99) and [Amila Madhusankha](https://github.com/madhusankha90)
+- **Backend Developers**: [Avishka Kothalawala](https://github.com/ackothalawala) and [Amila Madhusankha](https://github.com/madhusankha90)
 
 ## Setup
 
